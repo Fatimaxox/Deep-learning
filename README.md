@@ -23,4 +23,5 @@ Assessment involved utilizing key metrics such as accuracy, precision, and recal
 - **Best Accuracy:** 97%
 - **Loss Rate:** 0.094
 
-This comprehensive GitHub repository documents the entire process of constructing and evaluating a deep learning model for Iris dataset classification. The project showcases the importance of each step in achieving optimal model performance. 🌱✨
+This comprehensive repository documents the entire process of constructing and evaluating a deep learning model for Iris dataset classification. 
+The project showcases the importance of each step in achieving optimal model performance. 🌱✨
