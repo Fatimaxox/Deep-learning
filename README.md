@@ -1,6 +1,6 @@
 # Iris Dataset Classification with Deep Learning
 
-The Iris dataset serves as a prominent resource in machine learning for classification tasks. This project embarked on the comprehensive journey of constructing a deep learning model for classification purposes, following a structured workflow:
+The Iris dataset serves as a prominent resource for classification tasks. This project embarked on the comprehensive journey of constructing a deep learning model for classification purposes, following a structured workflow:
 
 ## 1. Data Preprocessing:
 
